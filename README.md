@@ -16,12 +16,17 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student specializing in Data Science
-- 🚀 Building practical applications and exploring full-stack development
-- 📱 Interested in Flutter, backend development, and API design
-- 🧠 Practicing Data Structures and Algorithms
-- 🏙️ Exploring AI-powered solutions for real-world urban challenges
-- 🎯 Focused on learning, shipping projects, and improving every day
+- ## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** passionate about building scalable, efficient, and user-focused applications.
+
+- 💻 Focused on full-stack development and software engineering.
+- ⚙️ Interested in designing reliable backend systems, REST APIs, and modern web applications.
+- 🧠 Strengthening my problem-solving skills through Data Structures and Algorithms.
+- 🚀 Building practical projects that solve real-world problems.
+- 📈 Committed to continuous learning, clean code, and writing maintainable software.
+
+**My approach:** Understand the problem, design the solution, build with purpose, and improve continuously.
 
 > I believe in learning by building and getting better with every commit.
 
