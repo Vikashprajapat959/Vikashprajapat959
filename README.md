@@ -16,8 +16,6 @@
 
 ## 👨‍💻 About Me
 
-- ## 👨‍💻 About Me
-
 I'm a **Full Stack Developer** passionate about building scalable, efficient, and user-focused applications.
 
 - 💻 Focused on full-stack development and software engineering.
