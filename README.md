@@ -1,6 +1,6 @@
  
 <div align="center">
-  <img src="github-banner.png" width="100%" alt="Vikash Prajapat - Full Stack Developer" />
+  <img src="github-banner.png.png" width="100%" alt="Vikash Prajapat - Full Stack Developer" />
 </div>
 
 # ⚡ VIKASH PRAJAPAT
