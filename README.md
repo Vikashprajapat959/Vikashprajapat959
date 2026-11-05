@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img src="github-banner.png.png" width="100%" alt="Vikash Prajapat — Full Stack Developer" />
@@ -130,6 +131,12 @@
 <br />
 
 <img src="https://streak-stats.demolab.com?user=Vikashprajapat959&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<a href="https://github.com/Vikashprajapat959">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikashprajapat959&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</a>
 
 </div>
 
