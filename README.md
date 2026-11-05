@@ -1,15 +1,15 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=VIKASH%20PRAJAPAT&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20WEB%20APPS%20%C2%B7%20REST%20APIs&descSize=18&descAlignY=58" width="100%" alt="Vikash Prajapat header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=VIKASH%20PRAJAPAT&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20AI%20ENGINEER%20%C2%B7%20WEB%20APPS%20%C2%B7%20REST%20APIs%20%C2%B7%20AI%20SYSTEMS&descSize=18&descAlignY=58" width="100%" alt="Vikash Prajapat header" />
 
-<img src="github-banner.png.png" width="100%" alt="Vikash Prajapat — Full Stack Developer" />
+<img src="github-banner.png.png" width="100%" alt="Vikash Prajapat — Full-Stack AI Engineer" />
 
 <a href="https://github.com/Vikashprajapat959">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=%3E+Building+clean+interfaces...;%3E+Shipping+reliable+REST+APIs...;%3E+Debugging+until+it+works...;%3E+Learning+something+new+every+day." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=%3E+Full-Stack+AI+Engineer;%3E+Building+clean+interfaces...;%3E+Shipping+reliable+REST+APIs...;%3E+Putting+AI+models+into+real+products...;%3E+Learning+something+new+every+day." alt="Typing animation" />
 </a>
 
-<p><em>I build practical products with clean interfaces, reliable APIs, and a focus on continuous improvement.</em></p>
+<p><em>I build practical products end to end: clean interfaces, reliable APIs, and AI/ML features that actually ship.</em></p>
 
 <p>
   <a href="https://github.com/Vikashprajapat959/Razorpay"><img src="https://img.shields.io/badge/Featured%20Build-Razorpay%20UI-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Featured Razorpay UI project" /></a>
@@ -35,8 +35,8 @@ vikash-prajapat
 
 $ cat profile.json
 {
-  "role"    : "Full-Stack Developer",
-  "focus"   : ["Responsive UI", "REST APIs", "Database Integration", "Deployment"],
+  "role"    : "Full-Stack AI Engineer",
+  "focus"   : ["Responsive UI", "REST APIs", "AI/ML Integration", "Database Integration", "Deployment"],
   "workflow": "Understand → Design → Implement → Test → Document → Improve",
   "goal"    : "Build useful software and explain the trade-offs behind it"
 }
@@ -53,12 +53,22 @@ $ status
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 My Direction</h3>
-      <p><strong>Full-Stack Development</strong></p>
-      <p>Responsive UI · API development · Database integration · Deployment</p>
+      <p><strong>Full-Stack AI Engineering</strong></p>
+      <p>Responsive UI · API development · AI/ML integration · Database integration · Deployment</p>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ How I Build</h3>
       <p>Understand → Design → Implement → Test → Document → Improve</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & ML</h3>
+      <p>Python · Computer Vision · YOLOv8 · Model-backed APIs (FastAPI)</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Where AI Meets Product</h3>
+      <p>Taking models out of notebooks and into usable apps: API, interface, deployment.</p>
     </td>
   </tr>
   <tr>
@@ -134,6 +144,7 @@ $ status
 |---|---|
 | **Frontend** | Responsive layouts, component-driven UI, utility-first styling |
 | **Backend** | REST endpoints, application logic, integrations |
+| **AI / ML** | Computer vision, model-backed APIs, AI features inside real apps |
 | **Data** | Database-backed applications and Firebase services |
 | **Engineering workflow** | Git, debugging, documentation, build and deployment checks |
 
