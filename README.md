@@ -93,29 +93,15 @@ $ cat focus.json
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vikashprajapat959&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashprajapat959&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vikashprajapat959&theme=radical" width="48%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vikashprajapat959&theme=radical" width="48%" alt="GitHub stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vikashprajapat959&theme=radical" width="48%" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikashprajapat959&theme=radical" width="48%" alt="Most used languages" />
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=Vikashprajapat959&theme=radical&hide_border=true" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikashprajapat959&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-
-</div>
-
----
-
-## 🧩 LeetCode
-
-<div align="center">
-
-<!-- Neeche YOUR_LEETCODE_USERNAME ko apne LeetCode username se replace karo -->
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats and heatmap" />
-</a>
 
 </div>
 
